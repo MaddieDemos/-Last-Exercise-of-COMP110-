@@ -14,7 +14,11 @@ Hi! I'm Maddie, currently taking COMP110. This is the personal website that I bu
 
 ## Data Analysis Summary
 
-In this project, I analyzed [brief description of the dataset/topic]. The analysis involved [key steps, e.g., data cleaning, exploratory data analysis, statistical modeling]. Key findings include [high-level summary points].
+I analyzed survey data by loading and combining datasets, selecting key columns, and converting responses into a format suitable for analysis. I used counting functions and visualizations to identify trends in student feedback on course pace, difficulty, understanding, and pre-lecture videos.
+
+I found that most students rated pre-lecture videos as helpful, with responses concentrated at higher values. I also observed that students who felt the course was faster-paced tended to find it more difficult. Overall, understanding levels were generally high but varied across students.
+
+Based on these findings, I concluded that offering optional pre-lecture videos, especially for more challenging topics, could better support different learning needs while keeping the workload manageable.
 
 ## Visualizations
 
@@ -28,4 +32,6 @@ Here are some key visualizations from the analysis:
 
 ## Conclusions
 
-Based on the analysis, [state main conclusions]. [Additional insights or implications]. This project demonstrates [skills learned or key takeaways].
+The analysis shows that a majority of students agree that pre-lecture videos would be helpful (ratings 4-7), with the histogram peaking around 5-6. The pace and difficulty ratings indicate that students finding the course fast also tend to find it more difficult, as shown in the boxplot. Understanding levels are generally high, with most students rating 4-6.
+
+This supports the idea of offering optional pre-lecture videos to accommodate different learning paces, as many students see value in them. Potential costs include the time and resources needed to create and maintain the videos, and it might not help all students equally. As a refinement, videos could be made available for specific challenging topics identified from the data.
