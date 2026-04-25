@@ -24,11 +24,11 @@ Based on these findings, I concluded that offering optional pre-lecture videos, 
 
 Here are some key visualizations from the analysis:
 
-![Visualization 1: Description of chart 1](/static/imgs/chart1.png)
+![Pace vs Difficulty](/static/imgs/pace_vs_difficulty.png)
 
-![Visualization 2: Description of chart 2](/static/imgs/chart2.png)
+![Pre-lecture Helpfulness](/static/imgs/pre_lecture_helpfulness.png)
 
-![Visualization 3: Description of chart 3](/static/imgs/chart3.png)
+![Understanding Levels](/static/imgs/understanding_levels.png)
 
 ## Conclusions
 
